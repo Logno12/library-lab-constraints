@@ -101,7 +101,7 @@ RENAME TABLE LOAN TO BORROW;
 
 The complete SQL scripts and project files are available on GitHub:
 
-https://github.com/yourusername/library-lab-constraints
+https://github.com/Logno12/library-lab-constraints
 
 Repository includes:
 
